@@ -50946,6 +50946,9 @@
 	<programme channel="惊悚悬疑" start="20240807152900 +0800" stop="20240807160900 +0800">
 		<title lang="zh">琦玉坊和田碧玉飘花手镯-渠道（右）</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20240807160900 +0800" stop="20240807173800 +0800">
+		<title lang="zh">江湖英雄联盟之奇门惊情</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -54203,6 +54206,9 @@
 	</programme>
 	<programme channel="明星大片" start="20240807154700 +0800" stop="20240807161100 +0800">
 		<title lang="zh">02_百变马丁第一季</title>
+	</programme>
+	<programme channel="明星大片" start="20240807161100 +0800" stop="20240807165600 +0800">
+		<title lang="zh">01_好大一个家</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -83559,6 +83565,9 @@
 	<programme channel="超级电影" start="20240807150000 +0800" stop="20240807162500 +0800">
 		<title lang="zh">电影《新方世玉前传侠者无畏》</title>
 	</programme>
+	<programme channel="超级电影" start="20240807162500 +0800" stop="20240807173400 +0800">
+		<title lang="zh">电影《毒战生死线》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -95622,6 +95631,9 @@
 	<programme channel="黑莓动画" start="20240807155800 +0800" stop="20240807160200 +0800">
 		<title lang="zh">三角龙嫌弃小志的榴莲饼干 小志在超市买三角龙零食</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240807160500 +0800" stop="20240807162900 +0800">
+		<title lang="zh">28_好奇惹的祸</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -96735,6 +96747,9 @@
 	<programme channel="newtv超级综艺" start="20240807142900 +0800" stop="20240807161600 +0800">
 		<title lang="zh">国家宝藏 第四季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240807161600 +0800" stop="20240807171600 +0800">
+		<title lang="zh">国风超有戏</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -96803,6 +96818,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20240807150000 +0800" stop="20240807162500 +0800">
 		<title lang="zh">电影《新方世玉前传侠者无畏》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20240807162500 +0800" stop="20240807173400 +0800">
+		<title lang="zh">电影《毒战生死线》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -96873,6 +96891,9 @@
 	<programme channel="newtv超级电视剧" start="20240807153600 +0800" stop="20240807161600 +0800">
 		<title lang="zh">05_飞狐外传</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20240807161600 +0800" stop="20240807170200 +0800">
+		<title lang="zh">12_小日子</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -96938,6 +96959,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20240807152100 +0800" stop="20240807161100 +0800">
 		<title lang="zh">36_锦心似玉</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20240807161100 +0800" stop="20240807165100 +0800">
+		<title lang="zh">琦玉坊和田碧玉飘花手镯-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -97010,6 +97034,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240807151000 +0800" stop="20240807160900 +0800">
 		<title lang="zh">农耕春秋——画说农桑 壁上华彩</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240807160900 +0800" stop="20240807164800 +0800">
+		<title lang="zh">第六集 强大工具</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -97440,6 +97467,9 @@
 	<programme channel="newtv怡伴健康" start="20240807153800 +0800" stop="20240807160500 +0800">
 		<title lang="zh">婚恋中的民法典 失衡的婚姻</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240807160500 +0800" stop="20240807163200 +0800">
+		<title lang="zh">婚恋中的民法典 被抛弃的女人</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -97502,6 +97532,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240807151900 +0800" stop="20240807160600 +0800">
 		<title lang="zh">17_三生三世枕上书</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240807160600 +0800" stop="20240807165900 +0800">
+		<title lang="zh">18_三生三世枕上书</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -97722,6 +97755,9 @@
 	<programme channel="newtv精品综合" start="20240807154700 +0800" stop="20240807161100 +0800">
 		<title lang="zh">02_百变马丁第一季</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20240807161100 +0800" stop="20240807165600 +0800">
+		<title lang="zh">01_好大一个家</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -97760,6 +97796,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240807152900 +0800" stop="20240807160900 +0800">
 		<title lang="zh">琦玉坊和田碧玉飘花手镯-渠道（右）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240807160900 +0800" stop="20240807173800 +0800">
+		<title lang="zh">江湖英雄联盟之奇门惊情</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -97922,6 +97961,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240807152300 +0800" stop="20240807161400 +0800">
 		<title lang="zh">36_九流霸主</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240807161400 +0800" stop="20240807170300 +0800">
+		<title lang="zh">德世朗钛健康饭煲-渠道（右）</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
